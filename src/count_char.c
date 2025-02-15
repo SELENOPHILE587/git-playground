@@ -1,5 +1,5 @@
-#include "count_char.h"
 #include <stdio.h>
+#include "count_char.h"
 
 int count_char(char a[])
 {
